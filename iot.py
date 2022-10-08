@@ -20,5 +20,6 @@ else:
     
 if time > 22:
     print("Turning OFF the tube light")
+else:    
     print("Turning ON the Night Bulb")
 
